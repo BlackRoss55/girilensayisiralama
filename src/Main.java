@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        int N,b=0,c=0,d=0,i,j,k;
+        int N,b=0,c=0,d=0,i;
         System.out.print("Kaç tane sayı gireceksiniz: ");
         N = sc.nextInt();
         for(i = 1;i<=N ;i++){
